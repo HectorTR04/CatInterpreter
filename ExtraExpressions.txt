@@ -1,0 +1,40 @@
+config dec
+print 10 + 4 / 2
+print ( 7 - 3 ) * ( 2 + 6 )
+x = 3 + 3
+y = x * 2
+z = y - x + ( 8 / 2 )
+print x
+print y
+print z
+config dec
+print 5 + 3 * 2
+print ( 5 + 3 ) * 2
+a = 10 / 2 + 3 * 4
+b = ( 10 / ( 2 + 3 ) ) * 4
+c = 15 / 4 + 6
+print a
+print b
+print c
+config dec
+print -4 + 3
+print -4 * -3
+m = 10 / -2
+n = m + 5
+print m
+print n
+config hex
+print 16 + 16
+p = 32 + 8 * 2
+print p
+config bin
+q = p - 4
+print q
+r = q + 1
+print r
+config dec
+print ( 3 + 5 * ( 2 - 8 ) ) / 4
+x = 6 * ( 5 + 3 ) - 4 / ( 2 + 1 )
+y = x * ( 7 + 3 ) / 5
+print x
+print y

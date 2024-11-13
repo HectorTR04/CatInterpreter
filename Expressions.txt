@@ -1,0 +1,14 @@
+config dec
+print 1 + 1
+print 3 + 3 * 3
+print ( 3 + 3 ) * 3
+var1 = 2 - -2
+var2 = var1
+var3 = var2 * ( 16 / ( var2 - 2 ) )
+print var1
+print var2
+print var3
+config hex
+print var3
+config bin
+print var3
